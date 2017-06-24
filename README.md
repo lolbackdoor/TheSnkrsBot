@@ -2,7 +2,7 @@
 
 ## Installing:
 
-1. Use "Download Zip" or clone my git repository.
+1. Download the crack from [here](https://mega.nz/#!wyR2jQ4C).
 2. Download the latest version from [here](http://thesnkrsbot.com/snkrsbot_setup.exe).
 3. Replace thesnkrsbot.exe with the one you got from step 1.
 4. Enjoy!
